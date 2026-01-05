@@ -1,0 +1,20 @@
+{
+  "id": "projects/ui_ux_infographie",
+  "title": "Créer une infographie UI vs UX (180 points)",
+  "description": "Objectif",
+  "source": "@site/docs/projects/ui_ux_infographie.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/ui_ux_infographie",
+  "permalink": "/typr.github.io/docs/projects/ui_ux_infographie",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/ui_ux_infographie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Définir des task flows simples (90 points)",
+    "permalink": "/typr.github.io/docs/projects/task_flow_galaxus"
+  }
+}
