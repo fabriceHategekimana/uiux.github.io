@@ -1,0 +1,24 @@
+{
+  "id": "projects/intro",
+  "title": "Modalités du cours:",
+  "description": "Cadre",
+  "source": "@site/docs/projects/intro.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/intro",
+  "permalink": "/typr.github.io/docs/projects/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conception d'interface graphique pour un FPS modulaire (360 points)",
+    "permalink": "/typr.github.io/docs/projects/interface_graphique_fps"
+  },
+  "next": {
+    "title": "Créer votre portfolio web personnel (300 points)",
+    "permalink": "/typr.github.io/docs/projects/portfolio"
+  }
+}

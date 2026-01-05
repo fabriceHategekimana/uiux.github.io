@@ -1,0 +1,24 @@
+{
+  "id": "projects/interface_graphique_fps",
+  "title": "Conception d'interface graphique pour un FPS modulaire (360 points)",
+  "description": "Contexte",
+  "source": "@site/docs/projects/interface_graphique_fps.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/interface_graphique_fps",
+  "permalink": "/typr.github.io/docs/projects/interface_graphique_fps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/interface_graphique_fps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Créer une infographie sur le User-Centered Design (240 points)",
+    "permalink": "/typr.github.io/docs/projects/infographie_user_centered_design"
+  },
+  "next": {
+    "title": "Modalités du cours:",
+    "permalink": "/typr.github.io/docs/projects/intro"
+  }
+}
